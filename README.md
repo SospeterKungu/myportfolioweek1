@@ -10,5 +10,6 @@ This project needs basic programming tools like Git, GitHub, Atom, and resources
 
 ### Link to Github live pages
 
+
 ### Copyright and License information
 This is a free to view website just describing what i learnt in this 1st week. no need for license. Sospeter Kung'u (c) 2020
