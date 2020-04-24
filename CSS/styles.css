@@ -2,3 +2,8 @@
   font-size: 30px;
   color: blue;
 }
+p.listings {
+  font-size: 20px;
+  font-style: italic;
+  color: gray;
+}
